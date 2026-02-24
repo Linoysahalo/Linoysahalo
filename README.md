@@ -13,7 +13,7 @@ This GitHub profile showcases my evolution from software engineering fundamental
 * **B.Sc. in Computer Science** – Sapir College (Final Year)
 * **AI Dev Boost Program** – *Google & Reichman AI Tech School*
     * Specialization in **Python Development** and **GenAI Automation**.
-    * Hands-on experience in **LLM API integration**, model training, and modern AI tools.
+    * Hands-on experience in **LLM API integration**, model training, and modern AI workflows.
 * **Core Competencies:**
     * **AI & Machine Learning:** Image Processing, Model Training, Data Analysis.
     * **Software Engineering:** High proficiency in **Python** and **Java**.
@@ -25,10 +25,11 @@ This GitHub profile showcases my evolution from software engineering fundamental
 
 #### 🏎️ Vehicle Analysis & License Plate Recognition (LPR)
 An advanced Image Processing project focused on real-time vehicle identification.
-* **Core Capabilities:** * **License Plate Recognition:** Extracting and identifying alphanumeric characters from plates.
+* **Core Capabilities:**
+    * **License Plate Recognition:** Extracting and identifying alphanumeric characters from plates.
     * **Color & Type Classification:** Using computer vision techniques to identify car colors and vehicle models.
 * **Technologies:** Python, OpenCV, Image Processing Algorithms.
-* **Focus:** Feature extraction, noise reduction in images, and pattern recognition.
+* **Focus:** Feature extraction, noise reduction, and pattern recognition.
 
 ---
 
@@ -40,28 +41,26 @@ A fullstack e-commerce platform for luxury timepieces.
 * **Highlights:** * Full CRUD functionality and **RESTful API** design.
     * Responsive UI/UX with modern state management.
 
-#### 🎮 Game Logic & Design Patterns
-Implementation of various systems (like TicTacToe Misère or Booking Systems) focusing on **Clean Code** and **Software Design Patterns** (SOLID, XP).
-
 ---
 
 ### 🛠 Technologies & Tools
 
-* **Languages:** `Python` (High Proficiency), `Java` (High Proficiency), `C#`, `C++`, `JavaScript`, `TypeScript`.
-* **AI & Vision:** `OpenCV`, `Image Processing`, `GenAI Automation`, `LLM APIs`.
-* **Fullstack:** `React`, `Node.js`, `Angular`, `SQL/NoSQL`.
-* **Tools:** `Git`, `GitHub`, `Docker`, `Postman`.
+* **AI Tools:** `Cursor` (AI Code Editor), `Gemini`, `ChatGPT`, `Claude`, `GitHub Copilot`.
+* **AI & Vision:** `OpenCV`, `Image Processing`, `GenAI Automation`, `LLM APIs (OpenAI/Google)`.
+* **Languages:** `Python` (High Proficiency), `Java` (High Proficiency), `C#`, `C++`, `JavaScript`
+* **Fullstack:** `React`, `Node.js`, `SQL/NoSQL`.
+* **DevOps & Tools:** `Git`, `GitHub`, `Postman`.
 
 ---
 
 ### 🧠 My Approach
 
 I view coding as a bridge between complex mathematical theories and practical, real-world solutions. My work reflects:
+* **Modern Development:** Leveraging **AI-first development tools** (like Cursor) to accelerate delivery and maintain high code quality.
 * **Algorithmic Thinking:** Solving problems with efficiency and scalability in mind.
 * **Innovation in AI:** Constant experimentation with the latest models and automation techniques.
-* **Architectural Integrity:** Writing maintainable, well-documented, and robust code.
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) / [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/linoy-sahalo-24a102375/) / [Email](mailto:linoysahalo2@gmail.com)
