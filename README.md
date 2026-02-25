@@ -21,7 +21,7 @@ This GitHub profile showcases my evolution from software engineering fundamental
 
 ---
 
-### 🚀 Featured AI & Computer Vision Project
+### 🚀 Featured AI & Computer Vision Projects
 
 #### 🏎️ Vehicle Analysis & License Plate Recognition (LPR)
 An advanced Image Processing project focused on real-time vehicle identification.
@@ -30,6 +30,15 @@ An advanced Image Processing project focused on real-time vehicle identification
     * **Color & Type Classification:** Using computer vision techniques to identify car colors and vehicle models.
 * **Technologies:** Python, OpenCV, Image Processing Algorithms.
 * **Focus:** Feature extraction, noise reduction, and pattern recognition.
+
+#### 🤖 Botivation – Personal Growth & AI Coaching Bot
+A smart Telegram bot designed to transform high-level aspirations into daily actionable steps, combining AI coaching with cognitive training.
+* **Core Capabilities:**
+    * **AI Goal Decomposition:** Leverages **Groq (Llama 3.3-70b)** to break down "Master Goals" into 4 personalized daily challenges.
+    * **Cognitive Brain Gym:** Interactive mini-games (Math, Memory, and Logic) to enhance mental agility and user engagement.
+    * **AI Motivation Coach:** A conversational interface providing mood-based support and daily inspiration.
+* **Technologies:** Python, Telebot, Groq AI (LLM), MongoDB, uv.
+* **Focus:** AI integration, prompt engineering, and building automated engagement systems.
 
 ---
 
