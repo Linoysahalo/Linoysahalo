@@ -54,10 +54,10 @@ A fullstack e-commerce platform for luxury timepieces.
 
 ### 🛠 Technologies & Tools
 
-* **AI Tools:** `Cursor` (AI Code Editor), `Gemini`, `ChatGPT`, `Claude`, `GitHub Copilot`.
+* **AI Tools:** `Cursor`, `Gemini`, `ChatGPT`, `Claude`, `GitHub Copilot`.
 * **AI & Vision:** `OpenCV`, `Image Processing`, `GenAI Automation`, `LLM APIs (OpenAI/Google)`.
 * **Languages:** `Python` (High Proficiency), `Java` (High Proficiency), `C#`, `C++`, `JavaScript`
-* **Fullstack:** `React`, `Node.js`, `SQL/NoSQL`.
+* **Fullstack:** `React`, `Node.js`, `SQL`, `MongoDB`.
 * **DevOps & Tools:** `Git`, `GitHub`, `Postman`.
 
 ---
