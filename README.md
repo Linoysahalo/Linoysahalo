@@ -21,15 +21,16 @@ This GitHub profile showcases my evolution from software engineering fundamental
 
 ---
 
-### 🚀 Featured AI & Computer Vision Projects
+### 🚀 Featured AI & Full Stack Projects
 
-#### 🏎️ Vehicle Analysis & License Plate Recognition (LPR)
-An advanced Image Processing project focused on real-time vehicle identification.
+#### Oak & Amber – AI-Driven Luxury E-Commerce
+A sophisticated luxury watch platform featuring a custom RAG-based AI consultant for personalized customer journeys.
 * **Core Capabilities:**
-    * **License Plate Recognition:** Extracting and identifying alphanumeric characters from plates.
-    * **Color & Type Classification:** Using computer vision techniques to identify car colors and vehicle models.
-* **Technologies:** Python, OpenCV, Image Processing Algorithms.
-* **Focus:** Feature extraction, noise reduction, and pattern recognition.
+    * **RAG Pipeline:** Engineered a custom Retrieval-Augmented Generation system using **Groq (Llama 3)** and **Sentence-Transformers** for context-accurate product advice.
+    * **Semantic Search:** Implemented vector embeddings in **MongoDB** to enable deep-context search beyond simple keywords.
+    * **Production Infrastructure:** Deployed on **AWS EC2** using **Nginx** reverse proxy and **Gunicorn** to manage high-performance concurrent workloads.
+* **Technologies:** React, Python (Flask), MongoDB, NLP, Groq API, AWS, Nginx.
+* **Focus:** AI Engineering, vector search, and production-grade cloud deployment.
 
 #### 🤖 Botivation – Personal Growth & AI Coaching Bot
 A smart Telegram bot designed to transform high-level aspirations into daily actionable steps, combining AI coaching with cognitive training.
@@ -42,13 +43,15 @@ A smart Telegram bot designed to transform high-level aspirations into daily act
 
 ---
 
-### 💻 Software Development Projects
+### 💻 Computer Vision 
 
-#### ⌚ Luxury Watch Store – Fullstack Web Application
-A fullstack e-commerce platform for luxury timepieces.
-* **Technologies:** React, Node.js, Express, MongoDB.
-* **Highlights:** * Full CRUD functionality and **RESTful API** design.
-    * Responsive UI/UX with modern state management.
+#### 🏎️ Vehicle Analysis & License Plate Recognition (LPR)
+An advanced Image Processing project focused on real-time vehicle identification.
+* **Core Capabilities:**
+    * **License Plate Recognition:** Extracting and identifying alphanumeric characters from plates.
+    * **Color & Type Classification:** Using computer vision techniques to identify car colors and vehicle models.
+* **Technologies:** Python, OpenCV, Image Processing Algorithms.
+* **Focus:** Feature extraction, noise reduction, and pattern recognition.
 
 ---
 
