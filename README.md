@@ -60,10 +60,10 @@ An advanced Image Processing project focused on real-time vehicle identification
 ### 🛠 Technologies & Tools
 
 * **AI Tools:** `Cursor`, `Gemini`, `ChatGPT`, `Claude`, `GitHub Copilot`.
-* **AI & Vision:** `OpenCV`, `Image Processing`, `GenAI Automation`, `LLM APIs (OpenAI/Google)`.
+* **AI & Vision:** `OpenCV`, `Image Processing`, `GenAI Automation`, `LLM APIs (OpenAI/Google\Groq)`.
 * **Languages:** `Python` (High Proficiency), `Java` (High Proficiency), `C#`, `C++`, `JavaScript`
-* **Fullstack:** `React`, `Node.js`, `SQL`, `MongoDB`.
-* **DevOps & Tools:** `Git`, `GitHub`, `Postman`.
+* **Fullstack:** `React`, `Node.js`, `SQL`, `MongoDB`, `RESTful API`
+* **DevOps & Tools:** `Git`, `GitHub`, `Postman`, `AWS`, `Linux`, 
 
 ---
 
