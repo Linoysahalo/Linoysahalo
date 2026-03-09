@@ -23,6 +23,7 @@ This GitHub profile showcases my evolution from software engineering fundamental
 
 ### 🚀 Featured AI & Full Stack Projects
 
+
 #### Oak & Amber – AI-Driven Luxury E-Commerce
 A sophisticated luxury watch platform featuring a custom RAG-based AI consultant for personalized customer journeys.
 * **Core Capabilities:**
@@ -31,6 +32,7 @@ A sophisticated luxury watch platform featuring a custom RAG-based AI consultant
     * **Production Infrastructure:** Deployed on **AWS EC2** using **Nginx** reverse proxy and **Gunicorn** to manage high-performance concurrent workloads.
 * **Technologies:** React, Python (Flask), MongoDB, NLP, Groq API, AWS, Nginx.
 * **Focus:** AI Engineering, vector search, and production-grade cloud deployment.
+
 
 #### 🤖 Botivation – Personal Growth & AI Coaching Bot
 A smart Telegram bot designed to transform high-level aspirations into daily actionable steps, combining AI coaching with cognitive training.
